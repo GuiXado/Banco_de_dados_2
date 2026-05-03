@@ -3,7 +3,7 @@
 
 ### Criar, em SQL Server, considerando o domínio de uma livraria, conforme modelado:
 
-<img width="825" height="458" alt="image" src="https://github.com/user-attachments/assets/8c107a8c-5846-48d5-8d05-cda8b771a9c9" />
+<img width="1043" height="564" alt="image" src="https://github.com/user-attachments/assets/844aa928-7836-4b14-8947-8f3ba5b6f00b" />
 
 Foram delimitadas as seguintes restrições:
 - O código do livro é auto incremental partindo de 100001 e incrementando de 100 em 100
